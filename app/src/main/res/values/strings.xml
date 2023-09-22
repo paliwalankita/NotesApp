@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+</resources>
